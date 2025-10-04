@@ -116,7 +116,7 @@ RizkyFajarTriwibowo/
 
 <h2>🎥 Video Penjelasan</h2>
 
-<a href="https://youtu.be/yourvideoid">Klik di sini untuk menonton</a>
+<a href="https://youtu.be/HT9xEBcijYI">Klik di sini untuk menonton</a>
 
 ---
 
